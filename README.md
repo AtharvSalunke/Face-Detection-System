@@ -16,3 +16,8 @@ A full-fledged face recognition system using **MTCNN** for face detection and **
 [Registration] ➡ Saves embedding & aligned image in JSON DB
        ⬇
 [Recognition] ➡ Compares live embedding with DB using cosine similarity
+```
+
+
+# Also run  
+``` pip install -r requirements.txt                      ```
