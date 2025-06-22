@@ -19,5 +19,37 @@ A full-fledged face recognition system using **MTCNN** for face detection and **
 ```
 
 
-# Also run  
-``` pip install -r requirements.txt                      ```
+# run  
+``` pip install -r requirements.txt ```
+
+
+# Run the Application
+``` python app.py ```
+
+# 🔍 Features
+✅ Live face detection (no SPACE key required)
+✅ JSON-based face database
+✅ Cosine similarity matching
+✅ Clear and modular structure
+✅ Easy to extend with GUI/API support
+
+
+# ✅ Requirements
+Python 3.7+
+
+OpenCV
+
+NumPy
+
+Keras + TensorFlow
+
+scikit-learn
+
+Pillow
+
+keras-facenet
+
+MTCNN (local/custom version)
+
+
+
