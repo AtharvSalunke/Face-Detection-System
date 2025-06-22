@@ -27,7 +27,7 @@ A full-fledged face recognition system using **MTCNN** for face detection and **
 ``` python app.py ```
 
 # 🔍 Features
-✅ Live face detection (no SPACE key required)
+✅ Live face detection 
 ✅ JSON-based face database
 ✅ Cosine similarity matching
 ✅ Clear and modular structure
